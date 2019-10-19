@@ -1,0 +1,15 @@
+---
+title: "Milestone 5"
+author: "Mari Jones"
+date: "10/18/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Background Information
+#Currently in the United States, thirteen states have no minimal age for which a juvenile can be tried as an adult and sent to an adult correctional facility under criminal law. Because of this, in many of these states rates of sexual abuse and violence are a culture ingrained in the prison complex as something to be expected. It is an unsettling norm of incarceration to expect to be sexually assaulted, but when we talk about incarceration and criminal injustices the conversation tends to stop at injustices that affect adult populations, and not the injustices against juveniles in our system. It is a fact of the justice system that juveniles who are incarcerated are at higher risks of developing mental health disorders, being sexually assaulted, becoming suicidal, and dying. Historically, prison rape statistics have gotten so out of hand that Congress interfered with the passage of the Prison Rape Elimination Act of 2003 which only put measures in place to protect youth in adult prison facilities, but had no provisions to protect youth in juvenile facilities. 
+
+#This project is going to use data from the American Civil Liberties Union and the Bureau of Justice Statistics to look at the rates of sexual violence in juvenile detention centers that still persist and the disproportionate impact that sexual violence in these centers has on youth of color. 
